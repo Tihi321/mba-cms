@@ -1,0 +1,3 @@
+[14-May-2010 13:55:25] PHP Fatal error:  Call to undefined method DB_Error::setFetchMode() in /home/wwwmrmr/public_html/cms/include/bazapodataka.php on line 10
+[14-May-2010 13:55:30] PHP Fatal error:  Call to undefined method DB_Error::setFetchMode() in /home/wwwmrmr/public_html/cms/include/bazapodataka.php on line 10
+[14-May-2010 13:55:34] PHP Fatal error:  Call to undefined method DB_Error::setFetchMode() in /home/wwwmrmr/public_html/cms/include/bazapodataka.php on line 10
